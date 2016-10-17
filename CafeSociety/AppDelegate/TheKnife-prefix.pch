@@ -1,0 +1,17 @@
+//
+//  TheKnife-prefix.pch
+//  TheKnife
+//
+//  Created by Brian Drell on 10/25/14.
+//  Copyright (c) 2014 The Knife App Co. All rights reserved.
+//
+
+#ifndef TheKnife_prefix_pch
+#define TheKnife_prefix_pch
+
+#import "UIFont+Knife.h"
+#import "UIColor+Knife.h"
+#import "KNIDelegatingTransitionAnimator.h"
+#import "Mixpanel.h"
+
+#endif
